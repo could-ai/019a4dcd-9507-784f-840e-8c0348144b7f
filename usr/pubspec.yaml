@@ -1,2 +1,5 @@
 name: couldai_user_app
 description: 
+
+environment:
+  sdk: '^3.7.0'
